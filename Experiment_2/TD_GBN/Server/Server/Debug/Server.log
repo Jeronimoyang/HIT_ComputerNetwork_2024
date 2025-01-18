@@ -1,0 +1,15 @@
+﻿  TD_GBN_Server.cpp
+E:\VisualStudio_Code\Web_Code\Lab2\TD_GBN\Server\Server\TD_GBN_Server.cpp(814,32): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VisualStudio_Code\Web_Code\Lab2\TD_GBN\Server\Server\TD_GBN_Server.cpp(815,29): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VisualStudio_Code\Web_Code\Lab2\TD_GBN\Server\Server\TD_GBN_Server.cpp(863,33): warning C4309: “=”: 截断常量值
+E:\VisualStudio_Code\Web_Code\Lab2\TD_GBN\Server\Server\TD_GBN_Server.cpp(936,44): warning C4305: “=”: 从“int”到“char”截断
+E:\VisualStudio_Code\Web_Code\Lab2\TD_GBN\Server\Server\TD_GBN_Server.cpp(936,41): warning C4309: “=”: 截断常量值
+E:\VisualStudio_Code\Web_Code\Lab2\TD_GBN\Server\Server\TD_GBN_Server.cpp(985,37): warning C4309: “=”: 截断常量值
+E:\VisualStudio_Code\Web_Code\Lab2\TD_GBN\Server\Server\TD_GBN_Server.cpp(1022,37): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+E:\VisualStudio_Code\Web_Code\Lab2\TD_GBN\Server\Server\TD_GBN_Server.cpp(1035,37): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+E:\VisualStudio_Code\Web_Code\Lab2\TD_GBN\Server\Server\TD_GBN_Server.cpp(1088,33): warning C4309: “=”: 截断常量值
+E:\VisualStudio_Code\Web_Code\Lab2\TD_GBN\Server\Server\TD_GBN_Server.cpp(1235,37): warning C4309: “=”: 截断常量值
+E:\VisualStudio_Code\Web_Code\Lab2\TD_GBN\Server\Server\TD_GBN_Server.cpp(1279,37): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+E:\VisualStudio_Code\Web_Code\Lab2\TD_GBN\Server\Server\TD_GBN_Server.cpp(1292,37): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+E:\VisualStudio_Code\Web_Code\Lab2\TD_GBN\Server\Server\TD_GBN_Server.cpp(1194,18): warning C4101: “b”: 未引用的局部变量
+  Server.vcxproj -> E:\VisualStudio_Code\Web_Code\Lab2\TD_GBN\Server\Debug\Server.exe

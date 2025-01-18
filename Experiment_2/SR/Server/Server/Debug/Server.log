@@ -1,0 +1,4 @@
+﻿  SR_Server.cpp
+E:\VisualStudio_Code\Web_Code\Lab2\SR\Server\Server\SR_Server.cpp(650,13): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+E:\VisualStudio_Code\Web_Code\Lab2\SR\Server\Server\SR_Server.cpp(679,43): warning C4309: “=”: 截断常量值
+  Server.vcxproj -> E:\VisualStudio_Code\Web_Code\Lab2\SR\Server\Debug\Server.exe
